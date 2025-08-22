@@ -41,8 +41,8 @@ Et Pour  lancer  le  serveur Prolog on a  comme  port 8080 puis  l'executer avec
 
 ---
 👥 Auteurs 
-RAMANITRARIVO Herve Patrick : 2498 
-RANDRIANANDRASANA Njoro Alexandre : 2507
-RAKOTOZANDRY Mamitiana Christiano : 2554
-RAKOTOMALALA Andoniaina Landry : 2386
+RAMANITRARIVO Herve Patrick : 2498 ,
+RANDRIANANDRASANA Njoro Alexandre : 2507 ,
+RAKOTOZANDRY Mamitiana Christiano : 2554 ,
+RAKOTOMALALA Andoniaina Landry : 2386 ,
 RAKOTONDRANAIVO Mahefasoa Fenotoky : 2565 
