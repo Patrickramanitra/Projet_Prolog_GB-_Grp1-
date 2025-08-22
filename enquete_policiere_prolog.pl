@@ -584,7 +584,8 @@ nav --> nav_bar.
 footer --> html(footer([hr([]), p(' Enquete policiere ')])).
 
 options_suspects -->
-    { findall(S, suspect(S), L) },
+    { findall
+    (S, suspect(S), L) },
     options_list(L).
 
 options_crimes -->
