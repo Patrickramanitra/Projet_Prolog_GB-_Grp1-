@@ -33,7 +33,6 @@ Verdicts visuels :
 Le projet est contenu dans un seul fichier enquete_policiere_prolog.pl qui regroupe :
 Faits et règles logiques.
 Détection des coupables.
-Serveur HTTP + génération HTML.
 
 ---
 On consulte  au  dossier  qui  se  trouve  le  projet dans prolog : File ---> consult ---> puis  selectionner le  projet enquete_policiere_prolog.pl 
